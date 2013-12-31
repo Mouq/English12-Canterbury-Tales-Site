@@ -20,6 +20,12 @@ body > * {
 }
 .splash > * {
     text-align: left;
+    margin: 0px;
+}
+.splash p {
+    text-indent: 1.5em;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 .bubbles {
     text-align: center;
@@ -32,12 +38,12 @@ body > * {
     display: inline-block;
     width: 20%;
     min-width: 5em;
-    overflow: auto;
-    height: 3em;
+    height: 100%;
     color: black;
     text-decoration: none;
     font-weight: bold;
 }
 .bubble:hover {
     border-color:#000;
+    background-color: #FCFCFC;
 }
