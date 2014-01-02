@@ -1,4 +1,4 @@
-<div class='title'>Ideal Woman</div>
+<div class='title'>The Ideal Woman<div class='subtitle'>Then and Now</div></div>
 Medieval woman were supposed to be:
     <ul>
     <li>A virgin </li>

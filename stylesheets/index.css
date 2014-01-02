@@ -32,8 +32,9 @@ body > * {
     font-family: 'Alegreya Sans SC', sans-serif;
     font-size: 120%;
     text-align: center;
-    float: center;
-    display: inline-block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     font-weight: bold;
     border-bottom: solid 0.1em;
     margin-bottom: 1em;
