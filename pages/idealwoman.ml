@@ -20,4 +20,6 @@ The Ideal woman today is:
     <li>A woman who can carry their own weight monetarily</li> 
     <li>A woman who is educated</li>
     </ul>
-(according to http://www.menshealth.com/sex-women/the-perfect-woman)
+according to <a href='http://www.menshealth.com/sex-women/the-perfect-woman'>Men's Health Magazine</a>
+<br/><br/>
+This Animoto video has more information on the topic: <a href='http://animoto.com/play/ecSm7fN71xPQYROe0z1d6A'>Ideal vs. Non-Ideal</a>
