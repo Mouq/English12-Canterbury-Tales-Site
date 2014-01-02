@@ -4,11 +4,10 @@ local $/; # slurp everything
 my $header = <$h_file>;
 my $footer = <$f_file>;
 chdir('pages');
-for (glob '*.ml') {
+for (glob '*') {
     open my $f, '<', $_;
     chdir('..');
-    substr($_, -3) = '.html';
-    open my $new, '>', $_;
+    open my $new, '>', $_.'.html';
     print $new $header;
     print $new $_ for <$f>;
     print $new $footer;
