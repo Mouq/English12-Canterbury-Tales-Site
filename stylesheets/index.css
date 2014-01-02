@@ -28,6 +28,20 @@ body > * {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+.title {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 120%;
+    text-align: center;
+    float: center;
+    display: inline-block;
+    font-weight: bold;
+    border-bottom: solid 0.1em;
+    margin-bottom: 1em;
+    width: 80%
+}
+.subtitle {
+    font-size: 80%;
+}
 .splash a {
     line-height: 110%;
     text-indent: 0;
